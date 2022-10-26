@@ -5,6 +5,8 @@
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F763&width=435&lines=%F0%9F%87%B1%F0%9F%87%B0SACHIYA-MD-WA-BOT%F0%9F%87%B1%F0%9F%87%B0)](https://git.io/typing-svg)
+
 <h1>🇱🇰SACHIYA-MD-WA-BOT🇱🇰</h1>
 </div>
 
