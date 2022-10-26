@@ -73,26 +73,22 @@ Add FFmpeg to PATH environment variable
 
 ----
 
-<!-- Contact Owner -->
+<!-- Contact Owner☜ -->
 <b><details><summary>Contact</summary></b>
 	
 
 <p align="center">
     World best English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot
     <br>
-        <a href="https://chat.whatsapp.com/EmxfOklzLVIIyDEKPx4IYj">Whatsapp Support Group 01</a> |
-	<a href="https://chat.whatsapp.com/KpBbjUuoKCE5DclK9lKdr0">Whatsapp Support Group 02</a> |
-	<a href="https://t.me/+TaQGxVd7ZM43NDk1">Telegarm Support Group</a> |
-	<a href="https://achibrolk.wordpress.com/alpha-bot-service">Official Web Site </a> |
-        <a href="https://www.youtube.com/c/ABLKPGAchiBrolk">Youtube Channel</a> |
-	<a href="https://chat.whatsapp.com/FTtlr84ndUWIkR7PeHoqXJ">Whatsapp Bot Group</a> |
-	<a href="https://chat.whatsapp.com/KQRCEydZ4QwJ7JpKypx5gg">Whatsapp Tech Group</a> |
+        <a href="https://chat.whatsapp.com/EsxYf5wGFVQAFcqTOxnpGt">Whatsapp Support Group 01</a> 
+        
+	<a href="https://chat.whatsapp.com/EsxYf5wGFVQAFcqTOxnpGt">Whatsapp Bot Group</a> 
     <br>
 </p>
 
-## ```Connect With Me```
+## ```Connect With Me☜```
 <p align="center">
-<a href="https://wa.me/94784506970"><img src="https://img.shields.io/badge/Contact Achi Fernando-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/94767233346"><img src="https://img.shields.io/badge/Contact Achi Fernando-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.youtube.com/c/AchiBrolk"><img src="https://img.shields.io/badge/Subscribe ABLK STUDIO-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/AchiBrolk" /><br>
 </p>
 
@@ -101,10 +97,12 @@ Add FFmpeg to PATH environment variable
 
 </details><hr>
 
-## Thanks To
- [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+## Thanks To🇱🇰
+
+ [`SACHIYA`](https://github.com/nolove2005/SACHIYA-MD-WA-BOT)
  [`Dark Alpha`](https://github.com/darkalphaxteam)
- [`Trex Hiruwa`](http//github.com)
+ 
+ 🇱🇰SACHIYA-MD-WA-BOT🇱🇰
 
 
 License: [MIT](https://github.com/Gojo-Satoru/LICENSE)
