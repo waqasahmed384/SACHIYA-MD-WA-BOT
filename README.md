@@ -19,9 +19,7 @@
 </p>
 
 
-> <a href="https://www.youtube.com/watch?v=bA9bJRGV1h0&list=PLTJcrlHuBM2Xg1_B0v_XFIrj1Oju-oBwT"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
-> [Automated Multi Device whatsapp bot created](https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT) by [alphateam](github.com/ALPHA-OFFICIAL-TEAM)
 
 > Dont forget to give a star bro. IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
@@ -40,15 +38,6 @@
 
 
 
-
-
-
-</br>
-
-<a href="https://github.com/ALPHA-OFFICIAL-TEAM"><img title="Author" src="https://img.shields.io/badge/Author-Achi Fernando-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT/"><img title="Stars" src="https://img.shields.io/github/stars/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
 ---
 
