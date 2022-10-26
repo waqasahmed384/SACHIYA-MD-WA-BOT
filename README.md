@@ -25,7 +25,7 @@
 
 
 
-1. Click [SCAN](https://replit.com/@NoLove1/BLACK-WHAIT-BOT-1?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@NoLove1/SACHIYA-MD-WA-BOT-1?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
 2. Click [FORK](https://github.com/nolove2005/SACHIYA-MD-WA-BOT/fork)
 
