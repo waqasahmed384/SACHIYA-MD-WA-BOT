@@ -109,6 +109,8 @@ Add FFmpeg to PATH environment variable
 
 </details><hr>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=dhhqhhfjfhhghfgf&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=500&height=56&lines=%F0%9F%87%B1%F0%9F%87%B0Thank+to%E2%98%9E+ALPHA+WA+BOT%F0%9F%87%B1%F0%9F%87%B0)](https://git.io/typing-svg)
+
 ## Thanks To🇱🇰
 
  [`SACHIYA`](https://github.com/nolove2005/SACHIYA-MD-WA-BOT)
